@@ -4,6 +4,10 @@ Projet de fin d'études (PFE) du **DUT Génie Informatique** — École Supérie
 
 Application web qui centralise le suivi des **stages** et des **projets de fin d'études** : les étudiants déposent leurs demandes et leurs documents, les encadrants suivent leurs étudiants, et l'administration valide les demandes et affecte les encadrants.
 
+## Vidéo de démonstration
+
+🎥 [Voir la démonstration de l'application (Google Drive)](https://drive.google.com/file/d/1jKJgWGwOz4Q5BBhGRnXltxNT768_3Q3F/view?usp=sharing)
+
 ## Fonctionnalités
 
 - **Authentification** par rôle : étudiant, encadrant, administrateur
